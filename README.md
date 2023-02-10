@@ -35,4 +35,4 @@ The results of the analysis will be displayed in your within the output cells of
 Make sure you have a working Python environment with the necessary libraries installed before running the code
 
 # Credits:
-Data analysis and manipulation by Marco Serrano
+Developed by Marco Serrano
