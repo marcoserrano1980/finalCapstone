@@ -5,8 +5,6 @@ Task 51 - Capstone Project VII: Unsupervised Machine Learning
 # Description:
 This project was completed as the final assignment for a course in unsupervised machine learning.
 
-#Table of Contents:
-
 # Introduction:
 
 The United States is one of the most developed and prosperous countries in the world, but crime remains a persistent problem. In 1973,
